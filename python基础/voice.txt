@@ -1,0 +1,10 @@
+其中
+
+--text 参数 指明保存的mp3文件路径。
+
+--write-media 参数 指明保存的mp3文件路径。
+
+
+--voice zh-CN-YunjianNeural 指明了使用哪种 语言和风格的 发音人。
+
+系统中可以使用的 发音人 可以通过命令 edge-tts --list-voices 查看。
